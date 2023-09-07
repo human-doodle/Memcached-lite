@@ -101,9 +101,10 @@ Data inconsistency issues can be dealt with proper synchronization and resource 
 server if already doesn’t exist)
 
 ## References :
-1. haps://github.com/memcached/memcached/blob/master/doc/protocol.txt
-2. haps://github.com/memcached/memcached/wiki/Commands#set
-3. haps://pymemcache.readthedocs.io/en/latest/gesng_started.html
-4. haps://docs.python.org/3/library/socket.html
-5. haps://pymotw.com/2/socket/tcp.html
-6. haps://docs.python.org/3/library/subprocess.html
+1.	https://github.com/memcached/memcached/blob/master/doc/protocol.txt
+2.	https://github.com/memcached/memcached/wiki/Commands#set
+3.	https://pymemcache.readthedocs.io/en/latest/getting_started.html
+4.	https://docs.python.org/3/library/socket.html
+5.	https://pymotw.com/2/socket/tcp.html
+6.	https://docs.python.org/3/library/subprocess.html
+
