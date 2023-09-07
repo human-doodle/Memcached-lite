@@ -94,11 +94,10 @@ atempt to update the JSON file at the same time, one may overwrite changes made 
 Data inconsistency issues can be dealt with proper synchronization and resource locking(one thread accessing shared resource at a time).
 
 ### Files:
-• Server.py : code for server implementation
-• Client.py: code for client implementation
-• Multiple_client_test.py : code for starting multiple clients for concurrent requests to
-server.
-• Cache.json : sample file system for storage and retrieval of key-value(will be created by
+1.  server.py : code for server implementation
+2.  client.py: code for client implementation
+3. multiple_client_test.py : code for starting multiple clients for concurrent requests to server.
+4. cache.json : sample file system for storage and retrieval of key-value(will be created by
 server if already doesn’t exist)
 
 ## References :
