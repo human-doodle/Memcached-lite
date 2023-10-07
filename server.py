@@ -124,6 +124,7 @@ def handle_client(connectionSocket, addr):
 
     except Exception as e:
         print(f"[ERROR] An error ococured: {e}")
+        connectionSocket.close()
 
 
 def main():
